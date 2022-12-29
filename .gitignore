@@ -129,3 +129,10 @@ dmypy.json
 .pyre/
 /.idea/BDD-Implementation-Exercise.iml
 /.idea/misc.xml
+/.idea/.gitignore
+/.idea/codestream.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/copyright/richards_copyright.xml
+/.idea/vcs.xml
